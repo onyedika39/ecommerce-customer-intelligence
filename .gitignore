@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# Data folders
+data/raw/
+data/processed/
+
+# Model files
+*.pkl
+*.joblib
+
+# Power BI temporary files
+*.tmp
